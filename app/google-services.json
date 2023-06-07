@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669269801192",
+    "project_id": "poneglyph-48dc5",
+    "storage_bucket": "poneglyph-48dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669269801192:android:5813590caae1189708315d",
+        "android_client_info": {
+          "package_name": "com.example.poneglyph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669269801192-65np88jeekbordf1l219d0qe0n8m48pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGknpFd5JNBSu3H03wxZS95vMXYVYnbms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669269801192-65np88jeekbordf1l219d0qe0n8m48pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
